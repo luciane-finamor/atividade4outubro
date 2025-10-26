@@ -1,6 +1,6 @@
 # 🌍 Atividade 04 – Portal da Literatura
 
-***LINK DA PAGINA***: 
+***LINK DA PAGINA***: https://luciane-finamor.github.io/atividade4outubro/
 
 ## 📘 Contexto da Atividade
 
